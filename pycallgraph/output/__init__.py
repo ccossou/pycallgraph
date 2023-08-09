@@ -1,6 +1,7 @@
 import collections
 
 from .graphviz import GraphvizOutput
+from .graphml import GraphmlOutput
 from .output import Output
 
 # from .gephi import GephiOutput
